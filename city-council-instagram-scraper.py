@@ -1,6 +1,6 @@
 # A simple tool for scraping a list of infogram accounts and 
 # by Juuso Koponen / Koponen+Hildén – https://www.koponen-hilden.fi
-# License: Creative Commons Attribution 4.0 International
+# License: Creative Commons CC0 1.0
 
 # Requires https://github.com/arc298/instagram-scraper to work
 

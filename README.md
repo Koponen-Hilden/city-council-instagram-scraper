@@ -17,6 +17,4 @@ We are not planning to maintain or further develop this code, but you are free t
 
 ## Licence
 
-[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
-
-Created by **[Juuso Koponen](https://twitter.com/infomuotoilu) / [Koponen+Hildén](https://www.koponen-hilden.fi)**
+[Creative Commons Zero 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
