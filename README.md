@@ -15,6 +15,6 @@ Requires [Instagram Scraper](https://github.com/arc298/instagram-scraper).
 
 We are not planning to maintain or further develop this code, but you are free to build on it in your own projects.
 
-## Licence
+## License
 
 [Creative Commons Zero 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
